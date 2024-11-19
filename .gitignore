@@ -1,0 +1,9 @@
+*.keras
+*.h5
+*.pkl
+*.png
+*.pptx 
+*.avi
+/data/
+/dataset/
+/DatasetWackAMole
